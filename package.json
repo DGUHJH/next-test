@@ -5,7 +5,7 @@
 	"scripts": {
 		"next": "next ./src",
 		"dev": "next dev ./src",
-		"build": "next build ./src",
+		"build": "next build",
 		"start": "next start ./src",
 		"lint": "next lint ./src"
 	},
